@@ -15,6 +15,9 @@ open up the service worker log, this is where you'll find the console commands f
 
 Now highlight some text, right click and hit Kryptos
 
+![image](https://github.com/777388/MatrixCode-Santa-X-Kryptos-/assets/96343159/59929d75-8c37-4000-980f-c7b6b8755de7)
+
+
 ![image](https://github.com/777388/MatrixCode-Santa-X-Kryptos-/assets/96343159/c528f44f-148c-4a74-a54f-fca4348eb9cc)
 
 ![image](https://github.com/777388/MatrixCode-Santa-X-Kryptos-/assets/96343159/0b542ac1-10da-4288-8e72-afe848198387)
