@@ -3,6 +3,11 @@ Xor included for the gift wrap mechanism with the pixel size changed to 4 pixels
 
 for install git clone https://github.com/777388/MatrixCode-Santa-X-Kryptos-.git
 
+![Screenshot 2023-11-25 7 14 39 PM](https://github.com/777388/MatrixCode-Santa-X-Kryptos-/assets/96343159/c037e2c6-5911-4981-b69b-d5e662263bfd)
+
+![Screenshot 2023-11-25 7 13 57 PM](https://github.com/777388/MatrixCode-Santa-X-Kryptos-/assets/96343159/d0117f1d-f4ba-4085-859b-0d51dabdfc19)
+
+
 ![image](https://github.com/777388/MatrixCode-Santa-X-Kryptos-/assets/96343159/215030bb-fc0b-4831-9154-0c99c461fab2)
 
 place the extension in chrome://extensions and load unpacked the MatrixCode-Santa-X-Kryptos folder
