@@ -27,4 +27,10 @@ Now highlight some text, right click and hit Kryptos
 
 ![image](https://github.com/777388/MatrixCode-Santa-X-Kryptos-/assets/96343159/0b542ac1-10da-4288-8e72-afe848198387)
 
+ctrl + shift + c to open console, place in whats in the service worker log into the console
+
+![Screenshot 2023-11-26 3 39 13 AM](https://github.com/777388/MatrixCode-Santa-X-Kryptos-/assets/96343159/16b3ff21-d021-4679-985e-a4eb3978af0c)
+
+
+
 https://www.youtube.com/watch?v=Gor7SCevb08
